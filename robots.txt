@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://anniefreesky.blogspot.com/sitemap.xml
+Sitemap: https://anniefreesky.github.io/sitemap.xml
+Sitemap: https://anniefreesky.github.io/sitemap.html
